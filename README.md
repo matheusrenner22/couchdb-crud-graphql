@@ -1,1 +1,1 @@
-# couchdb-crud-graphql
+# Simple CRUD with GraphQl, Nono, Dotenv and Node
